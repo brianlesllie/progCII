@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1575804644 source:c:\users\aluno\desktop\graf\grafo\fila.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+
+1575804644 c:\users\aluno\desktop\graf\grafo\lista_enc.h
+	"no.h"
+
+1575804644 c:\users\aluno\desktop\graf\grafo\no.h
+
+1575804644 c:\users\aluno\desktop\graf\grafo\fila.h
+
+1575806906 source:c:\users\aluno\desktop\graf\grafo\grafo.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<limits.h>
+	"grafo.h"
+	"vertice.h"
+	"lista_enc.h"
+	"no.h"
+	"fila.h"
+	"pilha.h"
+
+1575804644 c:\users\aluno\desktop\graf\grafo\grafo.h
+	"vertice.h"
+	"pilha.h"
+
+1575804644 c:\users\aluno\desktop\graf\grafo\vertice.h
+	"lista_enc.h"
+
+1575804644 c:\users\aluno\desktop\graf\grafo\pilha.h
+
+1575804644 source:c:\users\aluno\desktop\graf\grafo\lista_enc.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_enc.h"
+	"no.h"
+
+1575804644 source:c:\users\aluno\desktop\graf\grafo\no.c
+	<stdio.h>
+	<stdlib.h>
+	"no.h"
+
+1575804644 source:c:\users\aluno\desktop\graf\grafo\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"lista_enc.h"
+	"no.h"
+	"pilha.h"
+
+1575804644 source:c:\users\aluno\desktop\graf\grafo\vertice.c
+	<stdlib.h>
+	<stdio.h>
+	"vertice.h"
+	"lista_enc.h"
+
+1575805781 source:c:\users\aluno\desktop\graf\grafo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+	"fila.h"
+	"grafo.h"
+
